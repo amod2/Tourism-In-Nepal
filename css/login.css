@@ -1,0 +1,39 @@
+body{
+    background-image: url(download.jpg);
+    font-weight: 500;
+    font-family: cursive;
+    font-size: 22px;
+    
+}
+input,select{
+    height:30px;
+    border:1px solid orange;
+    border-radius:10px ;
+    font-size: 18px;
+    width:200px;
+}
+input[type=checkbox]
+{
+    width:16px;
+}
+input[type=submit]
+{
+    color:white;
+    background-color: orange;
+    font-size: 20px;
+}
+a:link{
+    color:darkblue;
+    font-size: 16px;    
+}
+a:active{
+    font-size: 17px;
+     color: red;
+}
+a:hover{
+    color: darkblue;
+}
+a:visited{
+    color: blue;
+}
+

@@ -1,0 +1,49 @@
+.container
+{
+	width: 100%;
+	height: 300px;
+	display: flex;
+
+}
+.second
+{
+	width: 33%;
+	height: 280px;
+	margin: 8px;
+	background-color: aliceblue;
+}
+
+.container1
+{
+	width: 50%;
+	height: 500px;
+	display: flex;
+    float: right;
+    margin-bottom: 5px;
+}
+.container2
+{
+	width: 50%;
+	height: 250px;
+	display: flex;
+     margin-bottom: 5px;
+}
+.first{
+    margin-left: 5px;
+}
+.first1{
+    margin-left: 5px;
+    width:50%; 
+}
+.second a:hover img{
+    width: 100.5%;
+    height: 281px;
+}
+.first a:hover img{
+    width:99.5%;
+    height: 505px;
+}
+.first1 a:hover img{
+    width:100.5%;
+    height: 250.5px;
+}

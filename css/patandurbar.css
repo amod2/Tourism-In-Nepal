@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    margin: 0 auto;
+    width:80%;
+   
+}
+  
+}
+.para1{
+    text-align: center;
+    font-family:times;
+    font-style: italic;
+    font-size: 18px;
+    background-color:rgba(236, 240, 241,0.4);
+}
+p{
+    text-align: left;
+    font-family:arial;
+    font-style: italic;
+    font-size: 18px;
+    background-color:rgba(236, 240, 241,0.4);
+}

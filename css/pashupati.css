@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    margin: 0 auto;
+    width:80%;
+    background-color: azure;
+}
+  
+}
+.para1{
+    text-align: center;
+    font-family:times;
+    font-style: italic;
+    font-size: 20px;
+}
+p{
+    text-align: left;
+    font-family:arial;
+    font-style: italic;
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
